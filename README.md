@@ -1,4 +1,4 @@
-#LeaseCalc
+# LeaseCalc
 
 This Python program calculates the monthly lease payments for the vehicle 
 lease given the given the following inputs:
